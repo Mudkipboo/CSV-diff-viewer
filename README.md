@@ -9,7 +9,7 @@ A local web tool for comparing SQL query results across multiple CSV snapshots. 
 Once deployed, your GitHub Pages demo will be live at:
 
 ```
-https://<your-username>.github.io/<your-repo-name>/
+https://Mudkipboo.github.io/CSV-diff-viewer/
 ```
 
 See [Deploying to GitHub Pages](#deploying-to-github-pages) below.
